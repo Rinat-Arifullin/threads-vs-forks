@@ -1,0 +1,19 @@
+{
+  "name": "threads-vs-forks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rinat-Arifullin/threads-vs-forks.git"
+  },
+  "author": "Arifullin Rinat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rinat-Arifullin/threads-vs-forks/issues"
+  },
+  "homepage": "https://github.com/Rinat-Arifullin/threads-vs-forks#readme"
+}
